@@ -83,7 +83,7 @@ Work usually starts on the very first day. While one engineer gathers all the ne
 >
 > 👩‍💻 We have job openings!
 >
-> To apply, please send a link to your resume. [Telegram](https://t.me/@test-this-shit-please).
+> To apply, please send a link to your CV on [Telegram](https://t.me/@test-this-shit-please).
 >
 > Candidates whose resumes are published on GitHub will receive extra karma points ;)
 >
