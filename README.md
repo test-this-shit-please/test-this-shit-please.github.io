@@ -1,11 +1,9 @@
 # Test This Shit
-
 We are a team of testers that your programmers will hate, but you will love us for helping improve your product and saving you time, money, and nerves.
 
 If you are involved in development yourself, it will be much more effective for you to engage an external testing team rather than maintaining your own testers.
 
 ### How much does it cost?
-
 ---
 >
 > We charge from $10 to $30 per hour. The cost varies depending on the type of task. However, it is always more cost-effective for you to engage an external testing team rather than maintaining a tester in-house.
@@ -15,27 +13,26 @@ If you are involved in development yourself, it will be much more effective for 
 ---
 
 ## We specialize in
-
-- Manual testing of web and mobile applications
-- Automated API testing
-- Load testing
-- Unit trsting
-- UI/UX testing of web and mobile applications
-- AI application testing
-- Training materials for testers and team training
+- Manual testing of web and mobile applications.
+- Automated API testing.
+- Load testing.
+- Unit trsting.
+- UI/UX testing of web and mobile applications.
+- AI application testing.
+- Training materials for testers and team training.
 
 ## Currently in progress
 > ⛔️ We do not disclose the names of clients and project names in progress. And we will not reveal the name of your project to anyone.
 
-- DEX exchange
-- CEX exchange
-- NFT marketplace
-- Payment system
-- Project for transforming games from web2 to web3
-- Online education project
-- Online queue project for clinics
-- Telegram bots
-- Games
+- DEX exchange.
+- CEX exchange.
+- NFT marketplace.
+- Payment system.
+- Project for transforming games from web2 to web3.
+- Online education project.
+- Online queue project for clinics.
+- Telegram bots.
+- Games.
 
 ## Advantages of working with us
 - We rotate QA engineers on projects, ensuring a fresh perspective.
@@ -62,17 +59,24 @@ Work usually starts on the very first day. While one engineer gathers all the ne
 - We study the competitors and gather references.
 - We study Swagger, if applicable.
   
+### Quick start
 - [Monkey testing](https://www.google.com/search?q=Monkey%20testing) the website testing based on a basic checklist – ensuring that there are no obvious issues.
 - [Monkey testing](https://www.google.com/search?q=Monkey%20testing) the application testing based on a basic checklist, if applicable – ensuring the absence of obvious flaws.
 - [Smoke testing](https://www.google.com/search?q=Smoke%20testing) the core functionality - functionality defined by your team as the main features.
 - [Exploratory testing](https://www.google.com/search?q=Exploratory%20testing) – in-depth exploration of the functionality and documenting it.
 
 ### Process
-- We enter the found bugs into a tracker that is convenient for you
-- We participate in daily calls if they start on time and we are polled first
-- We, if necessary, participate in any calls scheduled at least 4 hours in advance
-- We review all documentation, chats, and commits daily for any updates
-- We send a daily report containing information on the number of bugs found, reopened, and closed
+- We enter the found bugs into a tracker that is convenient for you.
+- We participate in daily calls if they start on time and we are polled first.
+- We, if necessary, participate in any calls scheduled at least 4 hours in advance.
+- We review all documentation, chats, and commits daily for any updates.
+- We send a daily report containing information on the number of bugs found, reopened, and closed.
+
+### Payment
+- We track hours daily, and you have access to information about the hours worked to ask questions if needed.
+- We issue invoices on the 1st and 15th of each month.
+- Payment is made within 3 business days from the receipt of the invoice.
+- We prefer payments in cryptocurrencies, but we can also accept money to our accounts in the USA, Europe, and Georgia. 
 
 ### Are you a QA engineer?
 ---
