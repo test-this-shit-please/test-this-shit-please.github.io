@@ -17,10 +17,11 @@ If you are involved in development yourself, it will be much more effective for 
 ## We specialize in
 
 - Manual testing of web and mobile applications
-- UI/UX testing of web and mobile applications
 - Automated API testing
-- AI application testing
 - Load testing
+- Unit trsting
+- UI/UX testing of web and mobile applications
+- AI application testing
 - Training materials for testers and team training
 
 ## Currently in progress
@@ -47,6 +48,31 @@ If you are involved in development yourself, it will be much more effective for 
 - We work without vacations, sick days, or weekends, reducing any inconvenience for you.
 - We are ready to test releases on Friday nights, supporting for your team in crisis moments.
 - We purchase our own equipment, do not require indexing or performance reviews every six months, and you only pay us when there are tasks, saving you money compared to an in-house tester.
+
+## How We Work
+Work usually starts on the very first day. While one engineer gathers all the necessary data, the other one begins working through standard checklists.
+
+### Getting Familiar with the Project
+- We study the project itself.
+- You create accounts for us in Jira, Trello, Notion, depending on which platform you use for project management.
+- You add us to Telegram, Discord, Slack, depending on where the communication takes place.
+- We study the documentation, if it exists.
+- We get to know the team or the person who will be working with us.
+- We learn about the tools used by the team.
+- We study the competitors and gather references.
+- We study Swagger, if applicable.
+  
+- [Monkey testing](https://www.google.com/search?q=Monkey%20testing) the website testing based on a basic checklist – ensuring that there are no obvious issues.
+- [Monkey testing](https://www.google.com/search?q=Monkey%20testing) the application testing based on a basic checklist, if applicable – ensuring the absence of obvious flaws.
+- [Smoke testing](https://www.google.com/search?q=Smoke%20testing) the core functionality - functionality defined by your team as the main features.
+- [Exploratory testing](https://www.google.com/search?q=Exploratory%20testing) – in-depth exploration of the functionality and documenting it.
+
+### Process
+- We enter the found bugs into a tracker that is convenient for you
+- We participate in daily calls if they start on time and we are polled first
+- We, if necessary, participate in any calls scheduled at least 4 hours in advance
+- We review all documentation, chats, and commits daily for any updates
+- We send a daily report containing information on the number of bugs found, reopened, and closed
 
 ### Are you a QA engineer?
 ---
