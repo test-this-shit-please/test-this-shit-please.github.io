@@ -7,19 +7,9 @@ If you are involved in development yourself, it will be much more effective for 
 ### How much does it cost?
 
 ---
-
-We charge from $10 to $30 per hour. The cost varies depending on the type of task. However, it is always more cost-effective for you to engage an external testing team rather than maintaining a tester in-house.
-
-To hire us, please contact us on Telegram (Telegram link not allowed in responses).
----
-
-### How much does it cost?
-
----
->
-> We charge from $10 to $30 per hour. The cost varies depending on the type of task. But for you, it is always more beneficial than keeping a tester on staff.
->
-> To hire us, please contact us on [Telegram](https://t.me/@test-this-shit-please)
+> We charge from $10 to $30 per hour. The cost varies depending on the type of task. However, it is always > more cost-effective for you to engage an external testing team rather than maintaining a tester in-house.
+> 
+> To hire us, please contact us on Telegram (Telegram link not allowed in responses).
 ---
 
 ## We specialize in
