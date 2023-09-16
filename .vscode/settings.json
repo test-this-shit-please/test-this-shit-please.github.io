@@ -1,0 +1,17 @@
+{
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true,
+	},
+	"editor.rulers": [
+		80
+	],
+	"editor.linkedEditing": true,
+	"javascript.preferences.renameMatchingJsxTags": true,
+	"typescript.preferences.renameMatchingJsxTags": true,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false
+}

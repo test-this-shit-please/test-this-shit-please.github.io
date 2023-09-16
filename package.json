@@ -1,0 +1,20 @@
+{
+	"name": "test-this-shit-please.github.io",
+	"module": "index.ts",
+	"type": "module",
+	"scripts": {
+		"dev": "bun --hot index.mjs"
+	},
+	"devDependencies": {
+		"bun-types": "latest",
+		"ttsp": "file://."
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"types": "index.d.ts",
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
