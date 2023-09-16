@@ -26,7 +26,6 @@ section {
 }
 
 h1 {
-	display: none;
 	margin-bottom: 2rem;
 	font-size: 5rem;
 	font-weight: bolder;
@@ -35,14 +34,9 @@ h1 {
 
 h2 {
 	display: inline-block;
-	display: none;
 	margin-bottom: 2rem;
 	font-weight: lighter;
 	font-size: 4rem;
-}
-
-a {
-	display: none;
 }
 
 @media (max-width: 600px) {
