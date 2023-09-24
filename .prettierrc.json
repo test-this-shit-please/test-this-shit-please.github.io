@@ -1,0 +1,11 @@
+{
+    "singleQuote": false,
+    "jsxSingleQuote": false,
+    "arrowParens": "always",
+    "max-len": ["error", 120, 2],
+	"printWidth": 120,
+    "useTabs": true,
+	"quoteProps": "preserve",
+	"semi": true,
+	"bracketSpacing": true
+}
