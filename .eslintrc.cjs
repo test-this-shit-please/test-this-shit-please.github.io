@@ -16,6 +16,11 @@ module.exports = {
 		"ecmaVersion": "latest",
 		"ecmaFeatures": { "jsx": true },
 	},
+	"settings": {
+		"react": {
+			"version": "detect",
+		},
+	},
 	"rules": {
 		// Code style
 		"prettier/prettier": ["error"],
