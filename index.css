@@ -11,6 +11,11 @@ a {
 	color: #20a4f3;
 }
 
+html {
+	font-size: 16px;
+
+}
+
 body {
 	position: relative;
 	min-height: 100vh;
@@ -23,12 +28,12 @@ section {
 	flex-direction: column;
 	justify-content: center;
 	height: 100%;
-	padding: 2rem;
+	padding: 2vmax;
 }
 
 h1 {
 	margin-bottom: 2rem;
-	font-size: 5rem;
+	font-size: 6vmax;
 	font-weight: bolder;
 	text-transform: capitalize;
 }
@@ -37,10 +42,10 @@ h2 {
 	display: inline-block;
 	margin-bottom: 2rem;
 	font-weight: lighter;
-	font-size: 4rem;
+	font-size: 5vmax;
 }
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
 	h1 {
 		font-size: 2.5rem;
 	}
@@ -48,7 +53,7 @@ h2 {
 	h2 {
 		font-size: 2rem;
 	}
-}
+} */
 
 .background {
 	position: absolute;
@@ -77,7 +82,7 @@ h2 {
 .background span {
 	width: 50vmin;
 	height: 50vmin;
-	border-radius: 50vmin;
+	border-radius: 50%;
 	backface-visibility: hidden;
 	position: absolute;
 	animation: move;
