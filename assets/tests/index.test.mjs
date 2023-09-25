@@ -2,9 +2,9 @@ import { describe, expect, it, test } from "bun:test";
 import { join } from "path";
 import { log } from "../../src/utils.mjs";
 
-const baseUrl = "http://localhost:3000";
-const response = await fetch(baseUrl);
-const html = await response.text();
+// const baseUrl = "http://localhost:3000";
+// const response = await fetch(baseUrl);
+// const html = await response.text();
 
 /**
  * Getting tags.
@@ -31,7 +31,7 @@ function getTags(html, tagName) {
 	return tags;
 }
 
-const tags = getTags(html, ["meta", "link"]);
+// const tags = getTags(html, ["meta", "link"]);
 log();
 log("-- Hey Bro. keep fucus -- ");
 log();
