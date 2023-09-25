@@ -11,20 +11,7 @@ import { parse } from "url";
 import web from "./@dev/src/checklists/web_v1.mjs";
 import Index from "./src/pages";
 
-// Md.push(`## ${section.title}`);
-// For (const item of section.items) {
-// 	Let title = item.title;
-// 	If (item.link) {
-// 		Title = `[${title}](${item.link})`;
-// 	}
-// 	If (item.moreLink) {
-// 		Title = `${title} <small>
-//  		<a href="${item.moreLink}" target="_blank" style="color: gray">(info)</a>
-//  	</small>`;
-// 	}
-// 	Md.push(`- ${title}`);
-// }
-
+import "./src/scripts/focus.mjs";
 /**
  * Renders checklist teim.
  * @param {object} item Item of the checklist.
@@ -68,7 +55,7 @@ function checkListToMd_v1(checklist = {}) {
 		processSection(md, section);
 	}
 	const mdStr = md.join("\n");
-	writeFileSync("./web.md", mdStr);
+	writeFileSync("./@dev/web.md", mdStr);
 }
 
 /**

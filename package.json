@@ -5,7 +5,8 @@
 	"postinstall": "husky install",
 	"scripts": {
 		"lint": "eslint . --ext cjs,mjs,js,jsx,ts,tsx --fix",
-		"dev": "husky install && bun upgrade && bun --hot index.mjs",
+		"dev": "bun upgrade && bun prepare && bun --hot index.mjs",
+		"test:commit": "bun lint && bun test",
 		"prepare": "husky install"
 	},
 	"devDependencies": {

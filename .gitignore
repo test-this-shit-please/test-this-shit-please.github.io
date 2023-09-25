@@ -1,6 +1,11 @@
 # Bun
 bun.lockb
 
+# Node
+node_modules/
+.npm
+package-lock.json
+
 # Logs
 logs
 _.log
@@ -8,14 +13,10 @@ _.log
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
-node_modules/
-
 # TypeScript cache
 \*.tsbuildinfo
 
-# Optional npm cache directory
-.npm
+
 
 # Optional eslint cache
 .eslintcache
@@ -39,3 +40,5 @@ node_modules/
 
 # Misc
 .DS_Store
+.focus.dev.json
+
